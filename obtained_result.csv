@@ -1,0 +1,61 @@
+,Dataset,Type_Registration,Algorithm,Astimated_Figure,Value
+0,Ferilli,Week + Weekend All Senior,Inductive,log_fitness,0.970253164556962
+1,Ferilli,Week + Weekend All Senior,Inductive,precision,0.1071428571428571
+2,Ferilli,Week + Weekend All Senior,Heuristic,log_fitness,0.40018499000944163
+3,Ferilli,Week + Weekend All Senior,Heuristic,precision,0.33333333333333337
+4,Ferilli,Week All Senior,Inductive,log_fitness,0.9817608861726509
+5,Ferilli,Week Senior 2,Inductive,precision,0.10066666666666668
+6,Ferilli,Week All Senior,Heuristic,log_fitness,0.4774836780609114
+7,Ferilli,Week All Senior,Heuristic,precision,0.33333333333333337
+8,Ferilli,Weekend All Senior,Inductive,log_fitness,0.2735849056603774
+9,Ferilli,Weekend All Senior,Inductive,precision,0.0
+10,Ferilli,Weekend All Senior,Heuristic,log_fitness,0.06148212677366488
+11,Ferilli,Weekend All Senior,Heuristic,precision,0.0
+12,Ferilli,Week + Weekend Senior 1,Inductive,log_fitness,0.9986979166666666
+13,Ferilli,Week + Weekend Senior 1,Inductive,precision,0.07859848484848486
+14,Ferilli,Week + Weekend Senior 1,Heuristic,log_fitness,0.5305065600834129
+15,Ferilli,Week + Weekend Senior 1,Heuristic,precision,0.4285714285714286
+16,Ferilli,Week Senior 1,Inductive,log_fitness,0.6898342159458664
+17,Ferilli,Week Senior 1,Inductive,precision,0.23076923076923073
+18,Ferilli,Week Senior 1,Heuristic,log_fitness,0.4529950014798251
+19,Ferilli,Week Senior 1,heuristic,precision,0.4285714285714286
+20,Ferilli,Weekend Senior 1,Inductive,log_fitness,0.8759037290715372
+21,Ferilli,Weekend Senior 1,Inductive,precision,0.0
+22,Ferilli,Weekend Senior 1,Heuristic,log_fitness,0.38190954773869346
+23,Ferilli,Weekend Senior 1,Heuristic,precision,0.0
+24,Ferilli,Week + Weekend Senior 2,Inductive,log_fitness,0.9976190476190476
+25,Ferilli,Week + Weekend Senior 2,Inductive,precision,0.0
+26,Ferilli,Week + Weekend Senior 2,Heuristic,log_fitness,0.44382198169778225
+27,Ferilli,Week + Weekend Senior 2,Heuristic,precision,0.0
+28,Ferilli,Week Senior 2,Inductive,log_fitness,0.9822422703019467
+29,Ferilli,Week Senior 2,Inductive,precision,0.0
+30,Ferilli,Week Senior 2,Heuristic,log_fitness,0.4930255183797395
+31,Ferilli,Week Senior 2,Heuristic,precision,0.0
+32,Ferilli,Weekend Senior 2,Inductive,log_fitness,0.7261904761904762
+33,Ferilli,Weekend Senior 2,Inductive,precision,0.0
+34,Ferilli,Weekend Senior 2,Heuristic,log_fitness,0.20952380952380956
+35,Ferilli,Weekend Senior 2,Heuristic,precision,0.0
+36,Ferilli,Weekend Senior 3,Inductive,log_fitness,0.9805844105878732
+37,Ferilli,Week + Weekend Senior 3,Inductive,precision,0.0
+38,Ferilli,Week + Weekend Senior 3,Heuristic,log_fitness,0.11355377906976744
+39,Ferilli,Week + Weekend Senior 3,Heuristic,precision,0.0
+40,Ferilli,Week Senior 3,Inductive,log_fitness,0.9603436825583198
+41,Ferilli,Week Senior 3,Inductive,precision,0.0
+42,Ferilli,Week Senior 3,Heuristic,log_fitness,0.12207173865204957
+43,Ferilli,Week Senior 3,Heuristic,precision,0.0
+44,Ferilli,Weekend Senior 3,Inductive,log_fitness,0.0
+45,Ferilli,Weekend Senior 3,Inductive,precision,0.0
+46,Ferilli,Weekend Senior 3,Heuristic,log_fitness,0.0
+47,Generated Log,Weekend Senior 3,Heuristic,precision,0.0
+48,Ferilli,Monday,Inductive,log_fitness,0.9875880857799492
+49,Ferilli,Monday,Inductive,precision,0.41666666666666663
+50,Ferilli,Monday,Heuristic,log_fitness,0.29547040012156295
+51,Ferilli,Monday,Heuristic,precision,0.5
+52,Generated Log,Monday,Inductive,log_fitness,0.9605201863354037
+53,Generated Log,Monday,Inductive,precision,0.0
+54,Generated Log,Monday,Hueristic,log_fitness,0.9605201863354037
+55,Generated Log,Monday,Heuristic,precision,0.0
+56,Generated Log,Modified Monday,Inductive,log_fitness,0.9876710472835659
+57,Generated Log,Modified Monday,Inductive,precision,0.0
+58,Generated Log,Modified Monday,Heuristic,log_fitness,0.8299706529713866
+59,Generated Log,Modified Monday,Heuristic,precision,0.0
