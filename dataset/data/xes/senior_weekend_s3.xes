@@ -1,889 +1,889 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
-	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
 	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
 	<string key="origin" value="csv" />
 	<trace>
 		<string key="concept:name" value="begin_activity" />
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="take_medicines" />
-			<string key="Occurrency_Of_Activity" value="1" />
+			<string key="Occurrency_Activity" value="1" />
 			<string key="concept:name" value="take_medicines" />
 			<date key="time:timestamp" value="2024-01-06T07:10:00+00:00" />
 			<int key="@@index" value="0" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="1" />
+			<string key="Occurrency_Activity" value="1" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T07:20:00+00:00" />
 			<int key="@@index" value="1" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:30:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="2" />
+			<string key="Occurrency_Activity" value="2" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T07:30:00+00:00" />
 			<int key="@@index" value="2" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:40:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="2" />
+			<string key="Occurrency_Activity" value="2" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T07:40:00+00:00" />
 			<int key="@@index" value="3" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:50:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="3" />
+			<string key="Occurrency_Activity" value="3" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T07:50:00+00:00" />
 			<int key="@@index" value="4" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:00:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="3" />
+			<string key="Occurrency_Activity" value="3" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T08:00:00+00:00" />
 			<int key="@@index" value="5" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="4" />
+			<string key="Occurrency_Activity" value="4" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T08:10:00+00:00" />
 			<int key="@@index" value="6" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="4" />
+			<string key="Occurrency_Activity" value="4" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T08:20:00+00:00" />
 			<int key="@@index" value="7" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:30:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="5" />
+			<string key="Occurrency_Activity" value="5" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T08:30:00+00:00" />
 			<int key="@@index" value="8" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:40:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="4" />
+			<string key="Occurrency_Activity" value="4" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T08:40:00+00:00" />
 			<int key="@@index" value="9" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:50:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="6" />
+			<string key="Occurrency_Activity" value="6" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T08:50:00+00:00" />
 			<int key="@@index" value="10" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:00:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="7" />
+			<string key="Occurrency_Activity" value="7" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T09:00:00+00:00" />
 			<int key="@@index" value="11" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="8" />
+			<string key="Occurrency_Activity" value="8" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T09:10:00+00:00" />
 			<int key="@@index" value="12" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="5" />
+			<string key="Occurrency_Activity" value="5" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T09:20:00+00:00" />
 			<int key="@@index" value="13" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:30:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="9" />
+			<string key="Occurrency_Activity" value="9" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T09:30:00+00:00" />
 			<int key="@@index" value="14" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:40:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="9" />
+			<string key="Occurrency_Activity" value="9" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T09:40:00+00:00" />
 			<int key="@@index" value="15" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:50:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="10" />
+			<string key="Occurrency_Activity" value="10" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T09:50:00+00:00" />
 			<int key="@@index" value="16" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:00:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="6" />
+			<string key="Occurrency_Activity" value="6" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T10:00:00+00:00" />
 			<int key="@@index" value="17" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="11" />
+			<string key="Occurrency_Activity" value="11" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T10:10:00+00:00" />
 			<int key="@@index" value="18" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="11" />
+			<string key="Occurrency_Activity" value="11" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T10:20:00+00:00" />
 			<int key="@@index" value="19" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:30:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="12" />
+			<string key="Occurrency_Activity" value="12" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T10:30:00+00:00" />
 			<int key="@@index" value="20" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:40:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="7" />
+			<string key="Occurrency_Activity" value="7" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T10:40:00+00:00" />
 			<int key="@@index" value="21" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:50:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="13" />
+			<string key="Occurrency_Activity" value="13" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T10:50:00+00:00" />
 			<int key="@@index" value="22" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T11:00:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="13" />
+			<string key="Occurrency_Activity" value="13" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T11:00:00+00:00" />
 			<int key="@@index" value="23" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T11:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="14" />
+			<string key="Occurrency_Activity" value="14" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T11:10:00+00:00" />
 			<int key="@@index" value="24" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T11:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="1" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="1" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-06T11:20:00+00:00" />
 			<int key="@@index" value="25" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T12:40:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="15" />
+			<string key="Occurrency_Activity" value="15" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T12:40:00+00:00" />
 			<int key="@@index" value="26" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T13:50:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="14" />
+			<string key="Occurrency_Activity" value="14" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T13:50:00+00:00" />
 			<int key="@@index" value="27" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:27:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="16" />
+			<string key="Occurrency_Activity" value="16" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T14:27:00+00:00" />
 			<int key="@@index" value="28" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:37:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="10" />
+			<string key="Occurrency_Activity" value="10" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T14:37:00+00:00" />
 			<int key="@@index" value="29" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:47:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="17" />
+			<string key="Occurrency_Activity" value="17" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T14:47:00+00:00" />
 			<int key="@@index" value="30" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:57:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="16" />
+			<string key="Occurrency_Activity" value="16" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T14:57:00+00:00" />
 			<int key="@@index" value="31" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:07:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="18" />
+			<string key="Occurrency_Activity" value="18" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T15:07:00+00:00" />
 			<int key="@@index" value="32" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:17:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="12" />
+			<string key="Occurrency_Activity" value="12" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T15:17:00+00:00" />
 			<int key="@@index" value="33" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:27:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="19" />
+			<string key="Occurrency_Activity" value="19" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T15:27:00+00:00" />
 			<int key="@@index" value="34" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:37:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="18" />
+			<string key="Occurrency_Activity" value="18" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T15:37:00+00:00" />
 			<int key="@@index" value="35" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:47:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Receive_Visits" />
-			<string key="Occurrency_Of_Activity" value="2" />
-			<string key="concept:name" value="Receive_Visits" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="receive_visits" />
+			<string key="Occurrency_Activity" value="2" />
+			<string key="concept:name" value="receive_visits" />
 			<date key="time:timestamp" value="2024-01-06T15:47:00+00:00" />
 			<int key="@@index" value="36" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T17:57:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="20" />
+			<string key="Occurrency_Activity" value="20" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T17:57:00+00:00" />
 			<int key="@@index" value="37" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:07:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="14" />
+			<string key="Occurrency_Activity" value="14" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T18:07:00+00:00" />
 			<int key="@@index" value="38" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:17:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="21" />
+			<string key="Occurrency_Activity" value="21" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T18:17:00+00:00" />
 			<int key="@@index" value="39" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:27:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="20" />
+			<string key="Occurrency_Activity" value="20" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T18:27:00+00:00" />
 			<int key="@@index" value="40" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:45:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="2" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="2" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-06T18:45:00+00:00" />
 			<int key="@@index" value="41" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T19:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="22" />
+			<string key="Occurrency_Activity" value="22" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T19:20:00+00:00" />
 			<int key="@@index" value="42" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T19:30:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="21" />
+			<string key="Occurrency_Activity" value="21" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T19:30:00+00:00" />
 			<int key="@@index" value="43" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T10:30:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="23" />
+			<string key="Occurrency_Activity" value="23" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T10:30:00+00:00" />
 			<int key="@@index" value="44" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T10:40:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="16" />
+			<string key="Occurrency_Activity" value="16" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T10:40:00+00:00" />
 			<int key="@@index" value="45" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T10:50:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="24" />
+			<string key="Occurrency_Activity" value="24" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T10:50:00+00:00" />
 			<int key="@@index" value="46" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T11:00:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="23" />
+			<string key="Occurrency_Activity" value="23" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T11:00:00+00:00" />
 			<int key="@@index" value="47" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T11:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="25" />
+			<string key="Occurrency_Activity" value="25" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T11:10:00+00:00" />
 			<int key="@@index" value="48" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T11:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="3" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="3" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-07T11:20:00+00:00" />
 			<int key="@@index" value="49" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T13:32:10+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="26" />
+			<string key="Occurrency_Activity" value="26" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T13:32:10+00:00" />
 			<int key="@@index" value="50" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T14:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="24" />
+			<string key="Occurrency_Activity" value="24" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T14:20:00+00:00" />
 			<int key="@@index" value="51" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T15:00:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Receive_Visits" />
-			<string key="Occurrency_Of_Activity" value="3" />
-			<string key="concept:name" value="Receive_Visits" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="receive_visits" />
+			<string key="Occurrency_Activity" value="3" />
+			<string key="concept:name" value="receive_visits" />
 			<date key="time:timestamp" value="2024-01-07T15:00:00+00:00" />
 			<int key="@@index" value="52" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="27" />
+			<string key="Occurrency_Activity" value="27" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T16:10:00+00:00" />
 			<int key="@@index" value="53" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="19" />
+			<string key="Occurrency_Activity" value="19" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T16:20:00+00:00" />
 			<int key="@@index" value="54" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:30:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="28" />
+			<string key="Occurrency_Activity" value="28" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T16:30:00+00:00" />
 			<int key="@@index" value="55" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:40:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="26" />
+			<string key="Occurrency_Activity" value="26" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T16:40:00+00:00" />
 			<int key="@@index" value="56" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:50:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="29" />
+			<string key="Occurrency_Activity" value="29" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T16:50:00+00:00" />
 			<int key="@@index" value="57" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T17:00:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="21" />
+			<string key="Occurrency_Activity" value="21" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T17:00:00+00:00" />
 			<int key="@@index" value="58" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T17:10:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="30" />
+			<string key="Occurrency_Activity" value="30" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T17:10:00+00:00" />
 			<int key="@@index" value="59" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T17:20:00+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="28" />
+			<string key="Occurrency_Activity" value="28" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T17:20:00+00:00" />
 			<int key="@@index" value="60" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T17:52:10+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="4" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="4" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-07T17:52:10+00:00" />
 			<int key="@@index" value="61" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:02:10+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="31" />
+			<string key="Occurrency_Activity" value="31" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T19:02:10+00:00" />
 			<int key="@@index" value="62" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:12:10+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="29" />
+			<string key="Occurrency_Activity" value="29" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T19:12:10+00:00" />
 			<int key="@@index" value="63" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:28:26+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="32" />
+			<string key="Occurrency_Activity" value="32" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T19:28:26+00:00" />
 			<int key="@@index" value="64" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:38:26+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="23" />
+			<string key="Occurrency_Activity" value="23" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T19:38:26+00:00" />
 			<int key="@@index" value="65" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:48:26+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="33" />
+			<string key="Occurrency_Activity" value="33" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T19:48:26+00:00" />
 			<int key="@@index" value="66" />
 			<int key="@@case_index" value="0" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:58:26+00:00" />
-			<string key="Type_Of_Event" value="begin_activity" />
+			<string key="Type_Event" value="begin_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="31" />
+			<string key="Occurrency_Activity" value="31" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T19:58:26+00:00" />
 			<int key="@@index" value="67" />
@@ -893,884 +893,884 @@
 	<trace>
 		<string key="concept:name" value="end_activity" />
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="take_medicines" />
-			<string key="Occurrency_Of_Activity" value="1" />
+			<string key="Occurrency_Activity" value="1" />
 			<string key="concept:name" value="take_medicines" />
 			<date key="time:timestamp" value="2024-01-06T07:15:00+00:00" />
 			<int key="@@index" value="68" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="1" />
+			<string key="Occurrency_Activity" value="1" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T07:25:00+00:00" />
 			<int key="@@index" value="69" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="2" />
+			<string key="Occurrency_Activity" value="2" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T07:35:00+00:00" />
 			<int key="@@index" value="70" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:45:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="2" />
+			<string key="Occurrency_Activity" value="2" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T07:45:00+00:00" />
 			<int key="@@index" value="71" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T07:55:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="3" />
+			<string key="Occurrency_Activity" value="3" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T07:55:00+00:00" />
 			<int key="@@index" value="72" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:05:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="3" />
+			<string key="Occurrency_Activity" value="3" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T08:05:00+00:00" />
 			<int key="@@index" value="73" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="4" />
+			<string key="Occurrency_Activity" value="4" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T08:15:00+00:00" />
 			<int key="@@index" value="74" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="4" />
+			<string key="Occurrency_Activity" value="4" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T08:25:00+00:00" />
 			<int key="@@index" value="75" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="5" />
+			<string key="Occurrency_Activity" value="5" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T08:35:00+00:00" />
 			<int key="@@index" value="76" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:45:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="4" />
+			<string key="Occurrency_Activity" value="4" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T08:45:00+00:00" />
 			<int key="@@index" value="77" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T08:55:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="6" />
+			<string key="Occurrency_Activity" value="6" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T08:55:00+00:00" />
 			<int key="@@index" value="78" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:05:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="7" />
+			<string key="Occurrency_Activity" value="7" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T09:05:00+00:00" />
 			<int key="@@index" value="79" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="8" />
+			<string key="Occurrency_Activity" value="8" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T09:15:00+00:00" />
 			<int key="@@index" value="80" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="5" />
+			<string key="Occurrency_Activity" value="5" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T09:25:00+00:00" />
 			<int key="@@index" value="81" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="9" />
+			<string key="Occurrency_Activity" value="9" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T09:35:00+00:00" />
 			<int key="@@index" value="82" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:45:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="9" />
+			<string key="Occurrency_Activity" value="9" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T09:45:00+00:00" />
 			<int key="@@index" value="83" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T09:55:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="10" />
+			<string key="Occurrency_Activity" value="10" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T09:55:00+00:00" />
 			<int key="@@index" value="84" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:05:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="6" />
+			<string key="Occurrency_Activity" value="6" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T10:05:00+00:00" />
 			<int key="@@index" value="85" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="11" />
+			<string key="Occurrency_Activity" value="11" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T10:15:00+00:00" />
 			<int key="@@index" value="86" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="11" />
+			<string key="Occurrency_Activity" value="11" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T10:25:00+00:00" />
 			<int key="@@index" value="87" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="12" />
+			<string key="Occurrency_Activity" value="12" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T10:35:00+00:00" />
 			<int key="@@index" value="88" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:45:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="7" />
+			<string key="Occurrency_Activity" value="7" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T10:45:00+00:00" />
 			<int key="@@index" value="89" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T10:55:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="13" />
+			<string key="Occurrency_Activity" value="13" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T10:55:00+00:00" />
 			<int key="@@index" value="90" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T11:05:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="13" />
+			<string key="Occurrency_Activity" value="13" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T11:05:00+00:00" />
 			<int key="@@index" value="91" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T11:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="14" />
+			<string key="Occurrency_Activity" value="14" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T11:15:00+00:00" />
 			<int key="@@index" value="92" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T12:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="1" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="1" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-06T12:35:00+00:00" />
 			<int key="@@index" value="93" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T13:04:30+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="15" />
+			<string key="Occurrency_Activity" value="15" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T13:04:30+00:00" />
 			<int key="@@index" value="94" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="14" />
+			<string key="Occurrency_Activity" value="14" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T14:25:00+00:00" />
 			<int key="@@index" value="95" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:32:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="16" />
+			<string key="Occurrency_Activity" value="16" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T14:32:00+00:00" />
 			<int key="@@index" value="96" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:42:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="10" />
+			<string key="Occurrency_Activity" value="10" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T14:42:00+00:00" />
 			<int key="@@index" value="97" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T14:52:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="17" />
+			<string key="Occurrency_Activity" value="17" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T14:52:00+00:00" />
 			<int key="@@index" value="98" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:02:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="16" />
+			<string key="Occurrency_Activity" value="16" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T15:02:00+00:00" />
 			<int key="@@index" value="99" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:12:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="18" />
+			<string key="Occurrency_Activity" value="18" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T15:12:00+00:00" />
 			<int key="@@index" value="100" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:22:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="12" />
+			<string key="Occurrency_Activity" value="12" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T15:22:00+00:00" />
 			<int key="@@index" value="101" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:32:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="19" />
+			<string key="Occurrency_Activity" value="19" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T15:32:00+00:00" />
 			<int key="@@index" value="102" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T15:42:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="18" />
+			<string key="Occurrency_Activity" value="18" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T15:42:00+00:00" />
 			<int key="@@index" value="103" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T17:52:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Receive_Visits" />
-			<string key="Occurrency_Of_Activity" value="2" />
-			<string key="concept:name" value="Receive_Visits" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="receive_visits" />
+			<string key="Occurrency_Activity" value="2" />
+			<string key="concept:name" value="receive_visits" />
 			<date key="time:timestamp" value="2024-01-06T17:52:00+00:00" />
 			<int key="@@index" value="104" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:02:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="20" />
+			<string key="Occurrency_Activity" value="20" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T18:02:00+00:00" />
 			<int key="@@index" value="105" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:12:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="14" />
+			<string key="Occurrency_Activity" value="14" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-06T18:12:00+00:00" />
 			<int key="@@index" value="106" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:22:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="21" />
+			<string key="Occurrency_Activity" value="21" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T18:22:00+00:00" />
 			<int key="@@index" value="107" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T18:32:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="20" />
+			<string key="Occurrency_Activity" value="20" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T18:32:00+00:00" />
 			<int key="@@index" value="108" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T19:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="2" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="2" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-06T19:15:00+00:00" />
 			<int key="@@index" value="109" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T19:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="22" />
+			<string key="Occurrency_Activity" value="22" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-06T19:25:00+00:00" />
 			<int key="@@index" value="110" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Saturday_S3" />
+			<string key="Case_ID" value="Saturday_S3" />
 			<date key="Event_Timestamp" value="2024-01-06T19:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Saturday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="21" />
+			<string key="Occurrency_Activity" value="21" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-06T19:35:00+00:00" />
 			<int key="@@index" value="111" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T10:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="23" />
+			<string key="Occurrency_Activity" value="23" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T10:35:00+00:00" />
 			<int key="@@index" value="112" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T10:45:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="16" />
+			<string key="Occurrency_Activity" value="16" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T10:45:00+00:00" />
 			<int key="@@index" value="113" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T10:55:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="24" />
+			<string key="Occurrency_Activity" value="24" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T10:55:00+00:00" />
 			<int key="@@index" value="114" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T11:05:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="23" />
+			<string key="Occurrency_Activity" value="23" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T11:05:00+00:00" />
 			<int key="@@index" value="115" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T11:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="25" />
+			<string key="Occurrency_Activity" value="25" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T11:15:00+00:00" />
 			<int key="@@index" value="116" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T12:30:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="3" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="3" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-07T12:30:00+00:00" />
 			<int key="@@index" value="117" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T13:50:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="26" />
+			<string key="Occurrency_Activity" value="26" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T13:50:00+00:00" />
 			<int key="@@index" value="118" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T14:45:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="24" />
+			<string key="Occurrency_Activity" value="24" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T14:45:00+00:00" />
 			<int key="@@index" value="119" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:05:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Receive_Visits" />
-			<string key="Occurrency_Of_Activity" value="3" />
-			<string key="concept:name" value="Receive_Visits" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="receive_visits" />
+			<string key="Occurrency_Activity" value="3" />
+			<string key="concept:name" value="receive_visits" />
 			<date key="time:timestamp" value="2024-01-07T16:05:00+00:00" />
 			<int key="@@index" value="120" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="27" />
+			<string key="Occurrency_Activity" value="27" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T16:15:00+00:00" />
 			<int key="@@index" value="121" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="19" />
+			<string key="Occurrency_Activity" value="19" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T16:25:00+00:00" />
 			<int key="@@index" value="122" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:35:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="28" />
+			<string key="Occurrency_Activity" value="28" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T16:35:00+00:00" />
 			<int key="@@index" value="123" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:45:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="26" />
+			<string key="Occurrency_Activity" value="26" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T16:45:00+00:00" />
 			<int key="@@index" value="124" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T16:55:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="29" />
+			<string key="Occurrency_Activity" value="29" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T16:55:00+00:00" />
 			<int key="@@index" value="125" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T17:05:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="21" />
+			<string key="Occurrency_Activity" value="21" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T17:05:00+00:00" />
 			<int key="@@index" value="126" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T17:15:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="30" />
+			<string key="Occurrency_Activity" value="30" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T17:15:00+00:00" />
 			<int key="@@index" value="127" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T17:25:00+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="28" />
+			<string key="Occurrency_Activity" value="28" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T17:25:00+00:00" />
 			<int key="@@index" value="128" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T18:57:10+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
-			<string key="Name_Activity" value="Carry_Out_Special_Activities" />
-			<string key="Occurrency_Of_Activity" value="4" />
-			<string key="concept:name" value="Carry_Out_Special_Activities" />
+			<string key="Senior_ID" value="S3" />
+			<string key="Name_Activity" value="carry_out_special_activities" />
+			<string key="Occurrency_Activity" value="4" />
+			<string key="concept:name" value="carry_out_special_activities" />
 			<date key="time:timestamp" value="2024-01-07T18:57:10+00:00" />
 			<int key="@@index" value="129" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:07:10+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="31" />
+			<string key="Occurrency_Activity" value="31" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T19:07:10+00:00" />
 			<int key="@@index" value="130" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:17:10+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="29" />
+			<string key="Occurrency_Activity" value="29" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T19:17:10+00:00" />
 			<int key="@@index" value="131" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:33:26+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="32" />
+			<string key="Occurrency_Activity" value="32" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T19:33:26+00:00" />
 			<int key="@@index" value="132" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:43:26+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="be_in_bathroom" />
-			<string key="Occurrency_Of_Activity" value="23" />
+			<string key="Occurrency_Activity" value="23" />
 			<string key="concept:name" value="be_in_bathroom" />
 			<date key="time:timestamp" value="2024-01-07T19:43:26+00:00" />
 			<int key="@@index" value="133" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T19:53:26+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="physical_activity" />
-			<string key="Occurrency_Of_Activity" value="33" />
+			<string key="Occurrency_Activity" value="33" />
 			<string key="concept:name" value="physical_activity" />
 			<date key="time:timestamp" value="2024-01-07T19:53:26+00:00" />
 			<int key="@@index" value="134" />
 			<int key="@@case_index" value="1" />
 		</event>
 		<event>
-			<string key="Case_Identifier" value="Sunday_S3" />
+			<string key="Case_ID" value="Sunday_S3" />
 			<date key="Event_Timestamp" value="2024-01-07T20:03:26+00:00" />
-			<string key="Type_Of_Event" value="end_activity" />
+			<string key="Type_Event" value="end_activity" />
 			<string key="Reference_Workflow" value="Sunday" />
-			<string key="Senior" value="S3" />
+			<string key="Senior_ID" value="S3" />
 			<string key="Name_Activity" value="hobby" />
-			<string key="Occurrency_Of_Activity" value="31" />
+			<string key="Occurrency_Activity" value="31" />
 			<string key="concept:name" value="hobby" />
 			<date key="time:timestamp" value="2024-01-07T20:03:26+00:00" />
 			<int key="@@index" value="135" />
